@@ -1,7 +1,7 @@
 //SPDX-License-Identifier: MIT
 pragma solidity ^0.8.26;
 
-contract simple {
+contract SimpleStorage {
     // struct is used to define custom type
     uint256 myFavoriteNumber;
     struct Person {
